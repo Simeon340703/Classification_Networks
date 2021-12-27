@@ -1,0 +1,3 @@
+[submodule "Objects/mmclassification"]
+	path = Objects/mmclassification
+	url = https://github.com/Simeon340703/mmclassification
