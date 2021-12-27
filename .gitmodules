@@ -1,0 +1,3 @@
+[submodule "Object_detection_and_tracking/image_classification_pytorch"]
+	path = Object_detection_and_tracking/image_classification_pytorch
+	url = https://github.com/frotms/image_classification_pytorch
