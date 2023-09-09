@@ -1,0 +1,9 @@
+[submodule "PythonRobotics"]
+	path = PythonRobotics
+	url = https://github.com/AtsushiSakai/PythonRobotics
+[submodule "lidar_bev"]
+	path = lidar_bev
+	url = https://github.com/beltransen/lidar_bev
+[submodule "ros_tutorials"]
+	path = ros_tutorials
+	url = https://github.com/ros/ros_tutorials

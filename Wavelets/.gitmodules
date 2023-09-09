@@ -1,0 +1,18 @@
+[submodule "kymatio"]
+	path = kymatio
+	url = https://github.com/kymatio/kymatio
+[submodule "PyTorch-Wavelet-Toolbox"]
+	path = PyTorch-Wavelet-Toolbox
+	url = https://github.com/v0lta/PyTorch-Wavelet-Toolbox
+[submodule "Wavelet-network-compression"]
+	path = Wavelet-network-compression
+	url = https://github.com/Simeon340703/Wavelet-network-compression
+[submodule "pytorch_wavelets"]
+	path = pytorch_wavelets
+	url = https://github.com/fbcotter/pytorch_wavelets
+[submodule "pypwt"]
+	path = pypwt
+	url = https://github.com/pierrepaleo/pypwt
+[submodule "pywt"]
+	path = pywt
+	url = https://github.com/PyWavelets/pywt
